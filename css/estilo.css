@@ -1,0 +1,18 @@
+*
+{
+    margin: 10px;
+}
+body
+{
+    background-color: aqua;
+    color: blue;
+    font-family: Cambria;
+}
+img
+{
+    width: 250px;
+    height: 200px;
+}
+p{
+    background-color: bisque;
+}
